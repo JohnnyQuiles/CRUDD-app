@@ -1,5 +1,14 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  color: white;
+}
 .App {
   text-align: center;
+  background: #282c34; 
+}
+#getId {
+  background: #61dafb,
 }
 
 .App-logo {
